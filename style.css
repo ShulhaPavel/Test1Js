@@ -2,10 +2,16 @@ header{
     background-color: grey;
 }
 
+nav{
+text-align: center;
+}
+
 nav a{
 color: white;
 border: 2px solid black;
 border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
 }
 
 h1{
