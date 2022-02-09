@@ -1,11 +1,13 @@
 header{
     background-color: grey;
+    height: 50px;
 }
 
 
 header a{
 color: white;
     background-color: black;
+    text-align: center;
 border: 2px solid black;
 border-radius: 10px;
     padding: 10px;
